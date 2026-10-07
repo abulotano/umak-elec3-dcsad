@@ -29,7 +29,8 @@ Number of addresses in that CIDR:
 | `ap-southeast-1b` | `172.31.16.0/20` |
 | `ap-southeast-1c` | `172.31.32.0/20` |
 
-![Subnets](screenshot-1-subnets.png)
+![Subnets](<img width="1283" height="237" alt="screenshot-1-subnets" src="https://github.com/user-attachments/assets/ac05c1b2-4002-467e-b2d8-7f69b8cac592" />
+)
 
 ### A3. Available addresses
 
@@ -52,7 +53,7 @@ An active network resource running inside that subnet holds the missing IP addre
 | `172.31.0.0/16` | `local` |
 | `0.0.0.0/0` | `igw-0943e7e6f88293168` |
 
-![Route Table](screenshot-2-routes.png)
+![Route Table]()
 
 ### A5. Public or private
 
@@ -91,7 +92,8 @@ How is a network ACL different from a security group?
 
 A network ACL operates at the subnet level, whereas a security group operates at the individual instance level. Network ACLs are stateless (requiring separate rules for inbound and outbound traffic) and support both Allow and Deny rules. Security groups are stateful (allowed inbound traffic automatically permits outbound reply traffic) and only support Allow rules.
 
-![Network ACL](screenshot-3-network-acl.png)
+![Network ACL](<img width="1281" height="205" alt="screenshot-3-network-acl" src="https://github.com/user-attachments/assets/98a209b1-3147-4b1e-9917-3851462c936a" />
+)
 
 ### A9. The default security group
 

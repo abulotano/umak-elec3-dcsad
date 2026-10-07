@@ -36,7 +36,7 @@ Number of addresses in that CIDR:
 
 Available IPv4 addresses in each subnet:
 
-`ap-southeast-1a` 4,091, `ap-southeast-1b` 4,091, `ap-southeast-1c` 4,091.
+`ap-southeast-1a` 4,090, `ap-southeast-1b` 4,091, `ap-southeast-1c` 4,091.
 
 Why is the number lower than 4,096?
 
